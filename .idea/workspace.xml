@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a483018-c8d9-41d0-a9c9-376edca435b9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_19-Mar-23_2_40_AM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_19-Mar-23_2_40_AM__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,12 +85,35 @@
       <option name="project" value="LOCAL" />
       <updated>1679203190431</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="BlockingQueue">
+      <created>1679333525660</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679333525660</updated>
+    </task>
+    <task id="LOCAL-00006" summary="BlockingQueue">
+      <created>1679333581393</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1679333581393</updated>
+    </task>
+    <task id="LOCAL-00007" summary="DelayQueue">
+      <created>1679337725237</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1679337725237</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Cyclic Barrier" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cyclic Barrier" />
+    <MESSAGE value="BlockingQueue" />
+    <MESSAGE value="DelayQueue" />
+    <option name="LAST_COMMIT_MESSAGE" value="DelayQueue" />
   </component>
 </project>
